@@ -1,2 +1,2 @@
 # WhatsVibin
-WhatsApp Clone in VBScript
+WhatsApp clone in VBScript
