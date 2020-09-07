@@ -1,2 +1,2 @@
 # WhatsVibin
-WhatsApp clone in VBScript
+WhatsApp-inspired messenger in VBScript for local communication
